@@ -4,8 +4,9 @@
 
 nomarl_gmae 버전입니다.
 
+![스크린샷 2024-06-04 142137](https://github.com/Joohawnee/game_graphics/assets/164468178/6c89a9dc-2ccf-4dd1-98cc-eb09f50561e9)
 
-![스크린샷 2024-06-04 135712](https://github.com/Joohawnee/game_graphics/assets/164468178/1abb460d-1399-47e9-9f5f-a1918c7783ef)
+
 
 
 
